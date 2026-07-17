@@ -3,9 +3,11 @@
 XiaoFeiJi小飞机VPN机场官网地址</br>
 官方地址：[xfj2.ww01.cc](https://xfj2.ww01.cc/#/register?code=L99sYi8J)</br>
 ## 邀请码
+`此邀请码注册，送1天套餐（10G）`
 ```bash
 L99sYi8J
 ```
+![image](https://github.com/jdnei/xiaofeiji/blob/main/xiaofeiji/QQ20260717-161520.jpg?raw=ture)  
 ## 简介
 小飞机VPN机场提供多节点高速网络服务，支持多平台使用，覆盖多个国家和地区，适合日常浏览、学习、办公及流媒体访问需求。
 ## 优势
@@ -23,8 +25,8 @@ L99sYi8J
 | F3-200G不限时 | ¥15.00 | 一次性 | 200G（不重置） | 3台 | 不限制 | 海外BGP中转节点 | 32个国家/地区 | 解锁 Netflix、Disney+、HBO、YouTube Premium、ChatGPT、Google Bard、Midjourney |
 ## 📊 性能实测与分析  
 #### 1.晚高峰测速表现  
-![image](?raw=ture)  
+![image](https://github.com/jdnei/xiaofeiji/blob/main/xiaofeiji/MiaoKo-%20.%20.cc-9791-speed.png?raw=ture)  
 #### 2.流媒体解锁报告  
-![image](?raw=ture)    
+![image](https://github.com/jdnei/xiaofeiji/blob/main/xiaofeiji/MiaoKo-%20.%20.cc-2970-test.png?raw=ture)    
 #### 3.落地入口分析  
-![image](?raw=ture)
+![image](https://github.com/jdnei/xiaofeiji/blob/main/xiaofeiji/MiaoKo-%20.%20.cc-7950-analyze.png?raw=ture)
