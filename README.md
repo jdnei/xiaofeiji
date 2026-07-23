@@ -1,5 +1,5 @@
 
-# XiaoFeiJi小飞机VPN机场官方地址（2026年7月17日更新）
+# XiaoFeiJi小飞机VPN机场官方地址(2026年7月17日更新)
 XiaoFeiJi小飞机VPN机场官网地址</br>
 官方地址：[xfj2.ww01.cc](https://xfj2.ww01.cc/#/register?code=L99sYi8J)</br>
 ## 邀请码
