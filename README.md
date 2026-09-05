@@ -2,7 +2,7 @@
 # XiaoFeiJi小飞机VPN机场官方地址(2026年9月5日更新)
 XiaoFeiJi小飞机VPN机场官网地址</br>
 最新地址：[dash3.ww01.cc](http://154.219.99.33:7788/#/register?code=L99sYi8J)</br>
-官方地址：[vpn2.cc](vpn2.cc)</br>
+官方地址：[vpn2.cc](https://vpn2.cc)</br>
 
 
 
