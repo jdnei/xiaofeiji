@@ -1,10 +1,13 @@
+🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
+[Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
 # XiaoFeiJi小飞机VPN机场官方地址(2026年11月3日更新)
 XiaoFeiJi小飞机VPN机场官网地址</br>
-最新地址：[dash3.ww01.cc](http://154.219.99.33:7788/#/register?code=L99sYi8J)</br>
-官方地址：[vpn2.cc](http://vpn2.cc)</br>
 
+~~最新地址：[dash3.ww01.cc](https://to.iix.im/xfj01)~~</br>
+~~官方地址：[vpn2.cc](https://to.iix.im/xfj02)~~</br>
 
+⚠️失联第2次了
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
