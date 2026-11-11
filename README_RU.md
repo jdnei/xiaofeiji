@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
 
-# Официальный сайт XiaoFeiJi VPN (обновлено 10 ноября 2026)
+# Официальный сайт XiaoFeiJi VPN (обновлено 11 ноября 2026)
 
 Официальный сайт XiaoFeiJi VPN<br>
 
