@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# وب‌سایت رسمی فیلترشکن XiaoFeiJi VPN(به‌روزرسانی 12 نوامبر 2026)
+# وب‌سایت رسمی فیلترشکن XiaoFeiJi VPN(به‌روزرسانی 13 نوامبر 2026)
 وب‌سایت رسمی فیلترشکن XiaoFeiJi VPN<br>
 
 ~~جدیدترین آدرس: [dash3.ww01.cc](https://to.iix.im/xfj01)~~<br>
