@@ -1,7 +1,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# XiaoFeiJi小飞机VPN机场官方地址(2026年11月13日更新)
+# XiaoFeiJi小飞机VPN机场官方地址(2026年11月14日更新)
 XiaoFeiJi小飞机VPN机场官网地址</br>
 
 ~~最新地址：[dash3.ww01.cc](https://to.iix.im/xfj01)~~</br>
